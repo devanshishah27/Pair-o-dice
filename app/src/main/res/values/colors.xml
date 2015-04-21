@@ -1,7 +1,9 @@
 <resources>
 
-    <color name="button_normal">#000055</color>
-    <color name="button_pressed">#ff0000</color>
+    <color name="button_normal">#556B2F</color>
+    <color name="button_pressed">#800080</color>
     <color name="button_text">#ffffff</color>
-    <color name="background">#005500</color>
+    <color name="background">#FFF44F</color>
+    <color name="p2background">#E9967A </color>
+
 </resources>
